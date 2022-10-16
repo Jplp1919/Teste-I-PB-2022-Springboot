@@ -66,6 +66,7 @@ public class calculator {
     }
 
     public void calculationLoop() {
+       
         int temp = 0;
         System.out.println(iterNum);
         temp = Integer.parseInt( sc.nextLine());
