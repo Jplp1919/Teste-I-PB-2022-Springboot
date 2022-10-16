@@ -1,3 +1,5 @@
+---Cada arquivo .java dentro das seguintes pastas é uma classe do projeto representado pela pasta que os contém.---
+
 Exercício 6:
 códigos na pasta: pkg06quiz.
 Simplesmente execute o código. O programa irá perguntar o seu nome,  simplesmente para poder mostrá-lo quando mostrar o seu resultado. Após entrar o seu nome, ou qualquer texto, 
