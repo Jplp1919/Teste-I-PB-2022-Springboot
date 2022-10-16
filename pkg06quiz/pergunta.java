@@ -65,6 +65,9 @@ public class pergunta {
 
             if (testarRepostas(temp, respostas[i])) {
                 acertos++;
+                System.out.println(tempuser);
+                System.out.println("Acertos: " + acertos);
+                System.out.println("Erros: " + erros);
             } else {
                 erros++;
             }
