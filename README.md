@@ -11,3 +11,8 @@ Execute o código no método main. O sistema irá pedir a o nome de usuário e a
 Usuário: root
 Senha: root
 —------------------------------------------------------------------------------------------------------------------------
+
+Exercício 8:
+Execute o código no método main. O sistema irá pedir o número de iterações, digite o número de funcionários cujo bônus/dedução deve ser calculado. o sistema então irá pedir o nome do funcionário e o seu salário o número de vezes dito anteriormente, após  os dados serem inseridos, o sistema irá retornar o nome, salário, bônus/dedução e o salário líquido dos funcionários. 
+
+—------------------------------------------------------------------------------------------------------------------------
