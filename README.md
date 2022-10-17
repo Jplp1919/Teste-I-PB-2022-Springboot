@@ -6,7 +6,11 @@ d. Retrospectiva: 3 horas.
 
 —------------------------------------------------------------------------------------------------------------------------
 
+Exercício 2:
 
+Scrum é um framework de desenvolvimento ágil para o desenvolvimento e manutenção de produtos, que é normalmente associado com o desenvolvimento de software, mas pode ser usado para qualquer tarefa que necessite ou empregue uma equipe de desenvolvedores. O scum funciona dividindo tarefas em ciclos de desenvolvimento chamados de “sprints”  e assim gerando um desenvolvimento incremental de um projeto.
+
+—------------------------------------------------------------------------------------------------------------------------
 
 
 ---Cada arquivo .java dentro das seguintes pastas é uma classe do projeto representado pela pasta que os contém.---
