@@ -1,7 +1,11 @@
 Exercício 1:
+
 a. Daily: 15 minutos.
+
 b. Planning: 8 horas.
+
 c. Review: 4 horas.
+
 d. Retrospectiva: 3 horas.
 
 —------------------------------------------------------------------------------------------------------------------------
@@ -42,6 +46,7 @@ códigos na pasta: pkg07login.
 Execute o código no método main. O sistema irá pedir a o nome de usuário e a senha, ambos estão como root. Ambos são case sensitive. É possível mudar a senha e o usuário alterando os valores no método “info.setPassword("root");”  e  “info.setUserName("root");”, simplesmente mude os valores nessas linhas de root para o valor desejado.
 Usuário: root
 Senha: root
+
 —------------------------------------------------------------------------------------------------------------------------
 
 Exercício 8:
