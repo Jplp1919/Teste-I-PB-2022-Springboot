@@ -22,6 +22,11 @@ No arquivo .gitignore
 
 —------------------------------------------------------------------------------------------------------------------------
 
+Exercício 5:
+As responsabilidades de um product owner são criar as histórias de usuário e o backlog do produto.
+
+—------------------------------------------------------------------------------------------------------------------------
+
 
 ---Cada arquivo .java dentro das seguintes pastas é uma classe do projeto representado pela pasta que os contém.---
 
