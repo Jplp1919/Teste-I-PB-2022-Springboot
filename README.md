@@ -14,6 +14,12 @@ Scrum é um framework de desenvolvimento ágil para o desenvolvimento e manuten�
 
 Exercício 3:
 José esqueceu de utilizar git add antes de dar git commit. Os comandos “git add README” e “git add Product.js” resolveriam o problema, bem como “git add ./”
+
+—------------------------------------------------------------------------------------------------------------------------
+
+Exercício 4:
+No arquivo .gitignore 
+
 —------------------------------------------------------------------------------------------------------------------------
 
 
